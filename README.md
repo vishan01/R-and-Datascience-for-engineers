@@ -2,9 +2,9 @@
 This repo is compiled of basics of R language and some introduction to datascience  
     Download R and Rstudio from following links: 
 	
-    R--> https://mirror.niser.ac.in/cran/
+  R: https://mirror.niser.ac.in/cran/
 	
-    Rstudio--> https://posit.co/download/rstudio-desktop/
+  Rstudio: https://posit.co/download/rstudio-desktop/
 	
 The codes which are made in this repo are made as references for the basics of R language 
 
