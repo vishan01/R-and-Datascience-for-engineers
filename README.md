@@ -20,3 +20,7 @@ The objectives of this repo are:
  
  5) Introduce a practical capstone case study
  
+# CHEATSHEET FOR R
+
+https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf
+
