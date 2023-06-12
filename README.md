@@ -14,7 +14,7 @@ To get started, you will need to download and install the following tools:
 The repository contains the following files and directories:
 
 - [`code-examples/`:](https://github.com/Uninterestedguy/R-and-Datascience-for-engineers/tree/main/Basic%20R%20programs) This directory includes various code examples written in R, covering the basics of the language and demonstrating its usage in data science.
-- `math-foundations/`: Here, you will find resources and code related to the mathematical foundations required for data science, such as linear algebra and probability theory.
+- [`math-foundations/`:](https://github.com/Uninterestedguy/R-and-Datascience-for-engineers/tree/main/LINEAR%20ALGEBRA%20AND%20MATRICES) Here, you will find resources and code related to the mathematical foundations required for data science, such as linear algebra and probability theory.
 - `data-science-algorithms/`: This directory provides implementations of fundamental data science algorithms, including regression, clustering, and classification.
 - `problem-solving-framework/`: Here, you can find a data analytics problem-solving framework that guides you through the steps involved in solving real-world data problems.
 - `capstone-case-study/`: This section presents a practical capstone case study, where you can apply the knowledge gained from the previous sections to solve a complex data problem.
