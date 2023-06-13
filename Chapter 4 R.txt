@@ -1,0 +1,61 @@
+8.5 Histogram
+
+- A histogram is a plot that gives us a chance to find, and show, the hidden recurrence (shape) of a set of continous information 
+
+Syntax 		hist(arguments)
+
+The following are the list of arguments used:
+-data: values to create a histogram
+main: title of the histogram
+col: provides color for blocks
+xlab: label for x-axis
+ylab: label for y-axis
+labels: used to display the values of the blocks at the top;takes a boolean value
+xlim: used to display values till a specific limit on the x-axis;
+
+-Combining multiple histograms
+
+8.6 Line Graph
+
+- A line graph is a kind of graph used to show information as a sequence of 
+data which are line through
+
+Syntax plot(arguments)
+The following are the list of arguments used:
+Data: numeric values, used to create the graph
+Type: used to show lines in different forms, as follows
+|: show only line
+p: show only points
+o: show both points and line
+
+8.7 Scatter plot
+
+- Scatter plots are used to show the relation between two vaiables of the given sets of data 
+Syntax plot(arguments)
+The following are some of the arguments used:
+x: data for x-axis
+y: data for y-axis
+main: title of the scatter plot
+
+type: l,o,h
+
+9. Data Interfaces
+
+objectives:
+
+-CSV files
+-Excel files
+-Binary files
+-XML files
+-JSON files
+-Web data
+-Databases
+
+Introduction 
+
+-The job of a data analyst includes importing data into R, analyzing the data and 
+generating results and reports 
+-The data can be imported into R from different sources like keyboard XML, spreadsheets and also from the 
+huge database management systems such as Oracle, MySQL and Access
+-This section covers situations where the different data formats namely, CSV, excel files, binary files, xml files
+are handled by R
