@@ -1,6 +1,6 @@
 # R-and-Datascience-for-engineers
 
-This repository provides a collection of resources and code examples to help engineers get started with the R programming language and introduce them to the basics of data science. It also covers some mathematical foundations required for data science and includes various data science algorithms at a beginner level. Additionally, it presents a data analytics problem-solving framework and includes a practical capstone case study.
+This repository provides a collection of resources and code examples to help engineers get started with the R programming language and introduce them to the basics of data science. It also covers some mathematical foundations required for data science and includes various data science algorithms at a beginner level.
 
 ## Installation
 
